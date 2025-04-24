@@ -7,7 +7,7 @@ I'm a data science learner with a background in business information systems and
 
 - 🎓 Master’s in Business Information Systems (Data Analysis major)
 - 🧠 Passionate about AI/ML + business strategy
-- 📍 Based in Sydney, Australia 🇦🇺
+- 📍 Based in Sydney, Australia
   
 
 ## 💬 Let's Connect
